@@ -32,6 +32,6 @@
   ],
   "homepage": "https://github.com/agarwalyeshu/node-okex-ws-spot#readme",
   "dependencies": {
-    "ws": "^3.3.3"
+    "ws": "^5.2.4"
   }
 }
